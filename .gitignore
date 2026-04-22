@@ -3,7 +3,6 @@
 output
 *.out
 
-compile.sh
-submit.sh
+*.sh
 
 README
