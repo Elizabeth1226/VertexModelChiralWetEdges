@@ -1,0 +1,9 @@
+.ignore
+**/__pycache__/
+output
+*.out
+
+compile.sh
+submit.sh
+
+README
